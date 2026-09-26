@@ -2,6 +2,10 @@
 
 LarvaX is a real-time epidemiological surveillance and healthcare management platform for vector-borne disease outbreaks (Dengue, Chikungunya, Malaria, Zika). It connects citizens, clinicians, laboratories, and health authorities to detect outbreak clusters early, streamline triage and care, and coordinate medical resources.
 
+
+# Website link
+larvax-app.onrender.com
+
 ---
 
 ## 🏗 Architecture
